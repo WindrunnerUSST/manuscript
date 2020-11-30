@@ -1,0 +1,9 @@
+# git ignore files
+
+# ignore file itself
+!.gitignore
+
+# markdown file
+!*.md
+!*.MD
+
